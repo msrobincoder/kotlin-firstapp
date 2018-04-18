@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- change colorPrimary to #3ffb555 -->
+<!-- this file lists the color that are being used on the screen -->
+<resources>
+    <color name="colorPrimary">#3fb555</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

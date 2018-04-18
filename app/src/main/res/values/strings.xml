@@ -1,0 +1,8 @@
+<resources>
+    <!-- this xml file lists the string names and their corresponding values -->
+    <string name="app_name">User Interface</string>
+    <string name="click_here">Click here</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="text_view">TextView</string>
+    <string name="kotlin_land">Kotlin Land</string>
+</resources>
